@@ -1,0 +1,236 @@
+ <div className="struct">
+      <div className="div">
+        <div className="overlap">
+          <div className="rectangle" />
+
+          <div className="rectangle-2" />
+
+          <div className="rectangle-3" />
+
+          <div className="rectangle-4" />
+
+          <div className="group">
+            <div className="rectangle-5" />
+
+            <div className="rectangle-6" />
+
+            <div className="text-wrapper">+375446385699</div>
+          </div>
+
+          <div className="group-2">
+            <div className="overlap-group">
+              <img className="frame" alt="Frame" src={frame} />
+
+              <div className="text-wrapper-2">Filtered search</div>
+            </div>
+          </div>
+
+          <div className="group-3">
+            <div className="overlap-2">
+              <img className="vector" alt="Vector" src={vector} />
+
+              <div className="text-wrapper-3">Home</div>
+            </div>
+          </div>
+
+          <div className="group-4">
+            <div className="overlap-2">
+              <div className="text-wrapper-4">Reports</div>
+
+              <img className="img" alt="Frame" src={image} />
+            </div>
+          </div>
+
+          <div className="group-5">
+            <div className="overlap-2">
+              <div className="text-wrapper-4">Team</div>
+
+              <img className="img" alt="Frame" src={frame2} />
+            </div>
+          </div>
+
+          <div className="group-6">
+            <div className="overlap-2">
+              <div className="text-wrapper-4">Account</div>
+
+              <img className="img" alt="Frame" src={frame3} />
+            </div>
+          </div>
+
+          <div className="overlap-wrapper">
+            <div className="div-wrapper">
+              <div className="text-wrapper-5">Info</div>
+            </div>
+          </div>
+
+          <div className="text-wrapper-6">Lid 1</div>
+
+          <div className="text-wrapper-7">Contacts</div>
+
+          <div className="text-wrapper-8">email</div>
+
+          <div className="overlap-group-wrapper">
+            <div className="overlap-3">
+              <div className="rectangle-7" />
+
+              <div className="text-wrapper-9">phone</div>
+            </div>
+          </div>
+
+          <div className="text-wrapper-10">makeinfo10.com</div>
+
+          <img className="frame-2" alt="Frame" src={frame11} />
+
+          <img className="frame-3" alt="Frame" src={frame12} />
+
+          <img className="frame-4" alt="Frame" src={frame13} />
+
+          <div className="text-wrapper-11">Delete account</div>
+
+          <div className="text-wrapper-12">Save</div>
+
+          <div className="group-7">
+            <div className="overlap-4">
+              <div className="contractors">
+                <div className="overlap-group-2">
+                  <div className="text-wrapper-13">Contractor</div>
+                </div>
+              </div>
+
+              <img className="frame-5" alt="Frame" src={frame14} />
+            </div>
+          </div>
+        </div>
+
+        <div className="div-2">
+          <div className="overlap-5">
+            <div className="group-8">
+              <div className="rectangle-5" />
+
+              <div className="rectangle-6" />
+            </div>
+
+            <div className="group-2">
+              <div className="overlap-group-3">
+                <div className="text-wrapper-2">Filtered search</div>
+              </div>
+
+              <img className="frame-6" alt="Frame" src={frame4} />
+            </div>
+
+            <div className="group-3">
+              <div className="overlap-6">
+                <div className="text-wrapper-3">Home</div>
+              </div>
+
+              <img className="vector-2" alt="Vector" src={vector2} />
+            </div>
+
+            <div className="group-4">
+              <div className="overlap-6">
+                <div className="text-wrapper-4">Reports</div>
+              </div>
+
+              <img className="frame-7" alt="Frame" src={frame5} />
+            </div>
+
+            <div className="group-5">
+              <div className="overlap-6">
+                <div className="text-wrapper-4">Team</div>
+              </div>
+
+              <img className="frame-7" alt="Frame" src={frame6} />
+            </div>
+
+            <div className="group-9">
+              <div className="overlap-7">
+                <div className="text-wrapper-14">Diagram</div>
+              </div>
+
+              <img className="frame-7" alt="Frame" src={frame7} />
+            </div>
+
+            <div className="group-6">
+              <div className="overlap-6">
+                <div className="text-wrapper-4">Account</div>
+              </div>
+
+              <img className="frame-7" alt="Frame" src={frame8} />
+            </div>
+
+            <div className="vector-wrapper">
+              <img className="vector-3" alt="Vector" src={vector3} />
+            </div>
+
+            <div className="overlap-wrapper">
+              <div className="div-wrapper">
+                <div className="text-wrapper-5">Info</div>
+              </div>
+            </div>
+
+            <div className="group-10">
+              <div className="overlap-8">
+                <div className="text-wrapper-15">Proj1ct1</div>
+              </div>
+
+              <img className="line" alt="Line" src={line1} />
+            </div>
+
+            <div className="rectangle-8" />
+
+            <div className="group-11">
+              <div className="overlap-9">
+                <div className="text-wrapper-16">AVG Rashod: 27.0483</div>
+              </div>
+
+              <img className="line-2" alt="Line" src={line12} />
+            </div>
+
+            <div className="group-12">
+              <div className="overlap-9">
+                <div className="text-wrapper-16">AVG Doxod: 47.765</div>
+              </div>
+
+              <img className="line-2" alt="Line" src={line13} />
+            </div>
+
+            <div className="group-13">
+              <div className="overlap-9">
+                <div className="text-wrapper-16">SUM: 240.000</div>
+              </div>
+
+              <img className="line-2" alt="Line" src={line14} />
+            </div>
+
+            <div className="group-14">
+              <div className="overlap-9">
+                <div className="text-wrapper-16">Morzha: 150.000</div>
+              </div>
+
+              <img className="line-2" alt="Line" src={line15} />
+            </div>
+
+            <div className="group-15">
+              <div className="overlap-9">
+                <div className="text-wrapper-16">Promezhutok: 3 kvart</div>
+              </div>
+
+              <img className="line-2" alt="Line" src={line16} />
+            </div>
+
+            <div className="text-wrapper-17">Convers:</div>
+
+            <div className="text-wrapper-18">39.7%</div>
+          </div>
+
+          <img className="image" alt="Image" src={image1} />
+
+          <img className="frame-8" alt="Frame" src={frame9} />
+
+          <img className="frame-9" alt="Frame" src={frame10} />
+        </div>
+      </div>
+    </div>
+  );
+};
+
